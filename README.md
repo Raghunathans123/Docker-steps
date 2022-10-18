@@ -4,9 +4,9 @@ Task 1 in word document: Docker_commands.docx
 
 Task 2 in word document: Assignment2-hello_world_image.docx
 
-Task 3: https://hub.docker.com/repository/docker/bhandary07/helloworld
+Task 3: https://hub.docker.com/repository/docker/raghunathans123/helloworld
 
-To pull image to your local: docker pull bhandary07/helloworld
+To pull image to your local: docker pull raghunathans123/helloworld
 
 To run the image use: docker run -dp 8000:8000 raghunathans123/helloworld
 
